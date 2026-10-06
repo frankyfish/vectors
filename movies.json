@@ -1,0 +1,77 @@
+[
+  {
+    "description": "A skilled thief enters people’s dreams to steal secrets and is offered a chance to regain his old life by completing an unusually difficult task.",
+    "genre": "Science Fiction",
+    "title": "Inception"
+  },
+  {
+    "description": "The aging head of a powerful crime family passes control to his reluctant son, drawing him into a world of loyalty, power, and violence.",
+    "genre": "Crime",
+    "title": "The Godfather"
+  },
+  {
+    "description": "Batman faces a calculating criminal whose escalating attacks push Gotham into chaos and test the limits of justice.",
+    "genre": "Action",
+    "title": "The Dark Knight"
+  },
+  {
+    "description": "A struggling family gradually becomes entangled with a wealthy household, setting off a tense chain of deception and unexpected consequences.",
+    "genre": "Thriller",
+    "title": "Parasite"
+  },
+  {
+    "description": "Two passengers from different social worlds fall in love aboard a famous ocean liner on its ill-fated maiden voyage.",
+    "genre": "Romance",
+    "title": "Titanic"
+  },
+  {
+    "description": "A young hobbit sets out with a fellowship to destroy a powerful ring before its dark creator can reclaim it.",
+    "genre": "Fantasy",
+    "title": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "description": "A boy discovers he is a wizard and begins his education at a school of magic, where a threat from his past is returning.",
+    "genre": "Fantasy",
+    "title": "Harry Potter and the Sorcerer’s Stone"
+  },
+  {
+    "description": "A clownfish travels across the ocean to find his son, who has been taken far from home.",
+    "genre": "Animation",
+    "title": "Finding Nemo"
+  },
+  {
+    "description": "A ranch toy and a space-themed action figure learn to overcome their rivalry when they are separated from their owner.",
+    "genre": "Animation",
+    "title": "Toy Story"
+  },
+  {
+    "description": "A jazz pianist and an aspiring actor pursue their ambitions and a relationship in modern Los Angeles.",
+    "genre": "Musical",
+    "title": "La La Land"
+  },
+  {
+    "description": "A computer programmer joins a group of hackers and uncovers a vast conspiracy while trying to protect the people he loves.",
+    "genre": "Thriller",
+    "title": "The Social Network"
+  },
+  {
+    "description": "A former Roman general is forced into gladiatorial combat and seeks justice against the emperor who betrayed him.",
+    "genre": "Action",
+    "title": "Gladiator"
+  },
+  {
+    "description": "A team of explorers travels beyond Earth in search of a new home for humanity as the planet faces environmental collapse.",
+    "genre": "Science Fiction",
+    "title": "Interstellar"
+  },
+  {
+    "description": "A young lion must reclaim his place in the circle of life after tragedy drives him away from his kingdom.",
+    "genre": "Animation",
+    "title": "The Lion King"
+  },
+  {
+    "description": "A quiet New Zealand community is disrupted when a group of vampires moves into the neighborhood.",
+    "genre": "Comedy",
+    "title": "What We Do in the Shadows"
+  }
+]
